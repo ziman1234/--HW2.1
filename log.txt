@@ -1,0 +1,8 @@
+Baseline epoch 200
+Accuracy of the network on the 10000 test images: 36.18%.
+
+Cutout epoch 200
+
+Mixup epoch 200
+
+Cutmix epoch 200
